@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge – Engineering Student Career Development Platform",
+  "description": "Comprehensive career development, branch-specific skill assessments, skill gap analysis, personalized roadmaps, internships, and project hub for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
